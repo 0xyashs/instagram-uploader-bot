@@ -2,8 +2,8 @@ import os
 import time
 from instagrapi import Client
 
-INSTAGRAM_USERNAME = "thekryptawndog"
-INSTAGRAM_PASSWORD = "yashyashyash"
+INSTAGRAM_USERNAME = "ID"
+INSTAGRAM_PASSWORD = "password"
 
 CAPTION = "✨ Cuties of the day! 🐾💕 Follow for daily cute content! #cute #animation #animatedshorts #cuteanimals #satisfying #viral #reels #trending #foryou #foryoupage"
 
